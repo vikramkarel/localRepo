@@ -1,2 +1,2 @@
-# This is my Local Repo
-RadhaKrishna Barsana
+# RadhaKrishna
+This is my Local Repo
